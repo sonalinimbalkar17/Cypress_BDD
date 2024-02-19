@@ -1,0 +1,34 @@
+{
+    "Sonali": {
+        "name": "sonali",
+        "password": "#Sona123",
+        "days": 17,
+        "months": "March",
+        "years": "2001",
+        "firstname": "sonali",
+        "lastname": "nimbalkar",
+        "company": "TCS",
+        "address": "vaijapur",
+        "country": "India",
+        "state": "maharashtra",
+        "city": "vaijapur",
+        "zipcode": "423701",
+        "mobileNo": "1234567890"
+    },
+    "Shweta": {
+        "name": "shweta",
+        "password": "#Shweta123",
+        "days": 21,
+        "months": "4",
+        "years": "2001",
+        "firstname": "shweta",
+        "lastname": "gorse",
+        "company": "wipro",
+        "address": "pune",
+        "country": "India",
+        "state": "maharashtra",
+        "city": "pune",
+        "zipcode": "423701",
+        "mobileNo": "1234567890"
+    }
+}
